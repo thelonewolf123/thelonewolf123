@@ -11,6 +11,16 @@
 ### About Me 🤙
  Programmer 💻, Electronics Engineer ⚡ working as a Software Developer @Facilio Inc 🏟️, Python Enthusiast, Passionate mobile / web / ML developer and I can create responsive webapps and scalable mobile apps using the latest technologies available.
 
+### I specialize in,
+<div style="padding-bottom:100px;">
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> 
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+ <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue-dot-js&logoColor=4FC08D" />
+</div>
 
 <!--
 **thelonewolf123/thelonewolf123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
