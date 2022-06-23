@@ -1,4 +1,16 @@
-### Hi there 👋
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ,  I am Harish Kumar
+
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/harish-kumar-k-32b2bb18b/)        [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/harishkumar.hkk/)
+
+### Streaks
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thelonewolf123&theme=highcontrast)](https://git.io/streak-stats)
+
+
+### About Me 🤙
+ Programmer 💻, Electronics Engineer ⚡ working as a Software Developer @Facilio Inc 🏟️, Python Enthusiast, Passionate mobile / web / ML developer and I can create responsive webapps and scalable mobile apps using the latest technologies available.
+
 
 <!--
 **thelonewolf123/thelonewolf123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
