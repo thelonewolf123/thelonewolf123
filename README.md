@@ -9,7 +9,7 @@
 
 
 ### About Me 🤙
- Programmer 💻, Electronics Engineer ⚡, Python Enthusiast, Passionate mobile / web / ML developer and I can create responsive webapps and scalable mobile apps using the latest technologies available. Checkout my portfolio at [harishkumar.pro](https://harishkumar.pro) 🔗
+ Programmer 💻, Electronics Engineer ⚡, Python Enthusiast, Passionate mobile / web / ML developer and I can create responsive webapps and scalable mobile apps using the latest technologies available. Checkout my portfolio at [harishkumar.info](https://harishkumar.info) 🔗
 
 ### I specialize in,
 #### 👉 Programming languages
