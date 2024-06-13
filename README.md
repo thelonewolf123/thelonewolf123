@@ -7,6 +7,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thelonewolf123&theme=highcontrast)](https://git.io/streak-stats)
 
+[![wakatime](https://wakatime.com/badge/user/843af3e5-83b4-4b3a-92a8-8e8381c26400.svg)](https://wakatime.com/@843af3e5-83b4-4b3a-92a8-8e8381c26400)
 
 ### About Me 🤙
  Programmer 💻, Electronics Engineer ⚡, Python Enthusiast, Passionate mobile / web / ML developer and I can create responsive webapps and scalable mobile apps using the latest technologies available. Checkout my portfolio at [harishkumar.info](https://harishkumar.info) 🔗
